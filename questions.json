@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The side length of a square is $$l$$. Find the area",
+      "variables": [
+        {
+          "name": "l",
+          "range": "1-10"
+        }
+      ],
+      "answer": "$$l * l$$",
+      "explanation": "blah blah science science $$l$$ * $$l$$ = $$l * l$$"
+    },
+    {
+      "id": 2,
+      "question": "What is $$a$$ + $$b$$?",
+      "variables": [
+        {
+          "name": "a",
+          "range": "1-10"
+        },
+        {
+          "name": "b",
+          "range": "1-10"
+        }
+      ],
+      "answer": "$$a + b$$",
+      "explanation": "Just use a calculator and put in $$a$$ + $$b$$. You will get $$a + b$$"
+    }
+  ]
+}
